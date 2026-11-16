@@ -1,0 +1,6 @@
+{
+ "formato": 1,
+ "clave": "valdaryon-2026-11-14-29786b0c",
+ "contenido": "{\"producto\":\"valdaryon\",\"version\":\"0.4.6\",\"etiqueta\":\"v0.4.6\",\"ref\":\"a32350ff2d12dade6e3d3b2ca49eb3bb11d6fa31\",\"manifiesto\":\"b50fe4345f438f98a8301f9dd5b4aa0a038d5652ce4f48dd4b3653a8bed1488e\",\"publicado\":\"2026-11-16T04:39:04.453Z\",\"notas\":\"Valdaryon 0.4.6\\n\\n- Nuevo hogar oficial de las actualizaciones: github.com/VALDARYON/Valdaryon.\\n- Incluye todo lo de la 0.4.5: pasos nuevos más suaves, puntería encima del personaje, 10 diseños de flecha guía con tamaño ajustable y el juego más fluido sin partículas de adorno.\\n- IMPORTANTE: instala con el instalador 0.4.6. Tu cuenta y tu partida están en el servidor y no se pierden.\",\"minLanzador\":1,\"archivos\":82,\"total\":53433594}",
+ "firma": "3VmVx82JDVstCN5SllXMdpuKWEgmoa3rYx/jCPXWTGxmLVgqpGC/6KU0BO0SfSedMbP3I2rLQXXT540y71hcAw=="
+}
