@@ -1,0 +1,18 @@
+name: Publicar version
+on:
+  push:
+    tags: ['v*']
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Crear la Release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          V="${GITHUB_REF_NAME#v}"
+          if [ -f notas.md ]; then N=notas.md; else echo "Version $V" > /tmp/n.md; N=/tmp/n.md; fi
+          gh release create "$GITHUB_REF_NAME" --title "Valdaryon $V" --notes-file "$N" --verify-tag
