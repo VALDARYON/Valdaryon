@@ -1,12 +1,9 @@
-Valdaryon 0.5.0 — La Luna y el espacio
+Valdaryon 0.5.1 (Beta)
 
-- La Luna: 10 mapas grandes con una ciudad bajo cúpula en cada uno, cráteres gigantes, bestias y jefes lunares, niveles 1 a 350, trajes con oxígeno y hangares subterráneos.
-- El espacio: el sistema solar real (8 planetas, sus lunas, los anillos de Saturno y el Sol), vuelo libre en todas las direcciones, impulso de éter, mapa estelar, panel de coordenadas (N) y piloto automático.
-- 8 estaciones espaciales gigantes, una por planeta, con ciudad, hangar gigante y torre de control.
-- Asteroides con 29 minerales, 10 hielos y 9 gases; minería con la nave y con drones; cometas y campos de gas.
-- Naves con ranuras y potencia: 38 armas de nave con munición por tier y rareza, 36 drones de nave con láser y 39 sensores y radares.
-- Piratas por todo el sistema solar: 6 facciones, jefes y tablón de recompensas.
-- Equipo espacial: trajes, armas y técnicas espaciales, accesorios sin magia y drones mascota.
-- Mercado global, equipos 1 a 4, durabilidad y reparación.
-- Ventanas con el diseño nuevo y sonido realista en el vacío.
-- IMPORTANTE: instala con el instalador 0.5.0. Tu cuenta y tu partida están en el servidor y no se pierden.
+- Los eventos de pueblo (asedios) ya no arrancan solos al pasar cerca ni dan derrota sin haber peleado.
+- Los recursos reaparecen por tier: de 4 h (T1) a 8 h (T10), y cada recurso da de 1 a 5 intentos.
+- Arbustos de recolección quietos, ventana de Comida y agua que no se cierra al comer o beber.
+- Ventanas más grandes y pestaña propia de Técnicas espaciales.
+- Más rendimiento: más núcleos, memoria según tu PC, caché de mundos sin límite y calidad automática; el mundo oficial admite hasta 120 jugadores.
+- Seguridad: los datos guardados en tu PC van cifrados, el juego solo se conecta al servidor oficial y ya no muestra su dirección.
+- Versión Beta: puede haber errores; tu cuenta y tu progreso están en el servidor.
