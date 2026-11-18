@@ -1,9 +1,6 @@
-Valdaryon 0.5.1 (Beta)
+Valdaryon 0.5.2 (Beta)
 
-- Los eventos de pueblo (asedios) ya no arrancan solos al pasar cerca ni dan derrota sin haber peleado.
-- Los recursos reaparecen por tier: de 4 h (T1) a 8 h (T10), y cada recurso da de 1 a 5 intentos.
-- Arbustos de recolección quietos, ventana de Comida y agua que no se cierra al comer o beber.
-- Ventanas más grandes y pestaña propia de Técnicas espaciales.
-- Más rendimiento: más núcleos, memoria según tu PC, caché de mundos sin límite y calidad automática; el mundo oficial admite hasta 120 jugadores.
-- Seguridad: los datos guardados en tu PC van cifrados, el juego solo se conecta al servidor oficial y ya no muestra su dirección.
+- Arreglado: el juego ya no te expulsa al cruzar un portal que el servidor rechaza (por ejemplo, por el impuesto); vuelves solo y te dice el motivo.
+- Si se corta la conexión, el juego se reconecta solo («Reconectando…») y puedes volver a entrar enseguida.
+- Energía al correr: correr gasta la energía de la barra bajo la vida y te cansas; el vuelo normal no gasta y el vuelo rápido (Shift) sí.
 - Versión Beta: puede haber errores; tu cuenta y tu progreso están en el servidor.
